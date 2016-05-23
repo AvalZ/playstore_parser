@@ -1,5 +1,5 @@
 require "playstore_parser/version"
-require "googleplay.pb"
+require "playstore_parser/googleplay.pb"
 
 module PlaystoreParser
 
