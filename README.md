@@ -1,3 +1,4 @@
+[![Gem Version](https://badge.fury.io/rb/playstore_parser.svg)](https://badge.fury.io/rb/playstore_parser)
 # PlaystoreParser
 
 Google Play Store APIs support the ProtoBuf ([Protocol Buffers](https://developers.google.com/protocol-buffers/)) format.
