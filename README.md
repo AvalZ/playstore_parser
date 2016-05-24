@@ -22,8 +22,6 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-require 'playstore_parser'
-    
 response = PlaystoreParser.parse(http_response)
 ```
 
