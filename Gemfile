@@ -4,4 +4,5 @@ source 'https://rubygems.org'
 gemspec
 
 gem 'ruby-protocol-buffers'
+
 require 'protocol_buffers'
